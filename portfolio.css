@@ -1,0 +1,57 @@
+body {
+	background-image: url(https://images.unsplash.com/photo-1595113316349-9fa4eb24f884?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+img {
+	border-radius: 50%;
+	width: 27%;
+	height: 27%
+	}
+
+h1 {
+	color: #2c3e50;
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: 'Itim', cursive;
+	font-size: 16px;
+}
+
+.data {
+	padding-top: 215px;
+}
+
+table, th, td {
+  border: 0.5px solid black;
+  font-family: 'Itim', cursive;
+}
+
+th, td {
+  padding: 15px;
+}
+
+.list {
+	font-family: 'Itim', cursive;
+	padding-top: 220px;
+	font-size: 20px;
+}
+
+.cert {
+	font-family: 'Itim', cursive;
+	padding-top: 220px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.btn {
+	color: white;
+	background: green;
+}
+
+
+
+
